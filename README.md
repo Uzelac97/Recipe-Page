@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://uzelac97.github.io/Recipe-Page/)
+- Live Site URL: https://uzelac97.github.io/Recipe-Page/
 
 ### Built with
 
